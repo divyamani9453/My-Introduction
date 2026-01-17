@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  background-color:  #E8F1F2;
+  
+}
+
+.container {
+  width: 50%;
+  margin: 100px ;
+  background-color:#B3EFB2;
+  padding: 30px;
+  text-align: center;
+  border-radius: 8px;
+  border-style: double;
+  
+}
+
+h1 {
+  color:  #1F2933;
+}
+
+#work {
+  font-weight: bold;
+  color: #374151;
+}
+
+.intro {
+  margin: 20px 0;
+  color: #4B5563;
+}
+
+
